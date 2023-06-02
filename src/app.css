@@ -1,0 +1,33 @@
+body {
+  max-width: 800px;
+  background: rgb(245, 198, 128) !important;
+}
+
+h1 {
+  font-weight: bold;
+  margin: 40px 40px !important;
+}
+p {
+  line-height: 1.9;
+}
+
+h1,
+p {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+}
+.croissants-photo {
+  display: block;
+  margin: 90px auto;
+  border-radius: 30px;
+  max-width: 400px;
+}
+.container a {
+  margin: 30px 10px;
+  color: green;
+  display: inline-block;
+}
+.container {
+  text-align: center;
+}
