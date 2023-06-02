@@ -1,6 +1,7 @@
 body {
-  max-width: 800px;
   background: rgb(245, 198, 128) !important;
+  display: block;
+  margin: 0 20px;
 }
 
 h1 {
